@@ -9,12 +9,12 @@ You’ll be using the **GitHub Wiki** to update all your project details in a st
 
 ## 🧠 What to Do First
 
-Start by writing a **brief introduction** to your project right here in this `README.md` file:
+ **brief introduction**
 
 🔹 What problem are you solving?  
+Urban homes lack consistent plant care when owners are away. This system automates watering based on soil moisture levels. The owners can also manually water their plants from any distance.
 🔹 What’s your proposed solution?
-
-Just 2–3 lines are enough. This helps others quickly understand what your project is about.
+Our project called Water Wise enables users to water their plants remotely using a manual or automatic mode. It measures the moisture content in a plant and accordingly waters it when the levels are low.
 
 ---
 
