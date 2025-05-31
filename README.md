@@ -2,8 +2,8 @@
 
 Hey there! 👋
 
-This repository is your home for documenting your **Innovation School Project** and starting your **maker portfolio**.  
-You’ll be using the **GitHub Wiki** to update all your project details in a structured format.
+This repository is our home for documenting our **Innovation School Project** and starting our **maker portfolio**.  
+We’ll be using the **GitHub Wiki** to update all our project details in a structured format.
 
 ---
 
@@ -11,16 +11,16 @@ You’ll be using the **GitHub Wiki** to update all your project details in a st
 
  **brief introduction**
 
-🔹 What problem are you solving?  
+🔹 The problem we are solving?  
 Urban homes lack consistent plant care when owners are away. This system automates watering based on soil moisture levels. The owners can also manually water their plants from any distance.
-🔹 What’s your proposed solution?
+🔹 What’s our proposed solution?
 Our project called Water Wise enables users to water their plants remotely using a manual or automatic mode. It measures the moisture content in a plant and accordingly waters it when the levels are low.
 
 ---
 
-## 🛠 Where to Document Everything Else
+## 🛠 Where Everything Else is Documented
 
-We’ve already created a standard set of **Wiki pages** for your project in this repository — you just need to **update them with your project information**.
+We’ve already created a standard set of **Wiki pages** for our project in this repository.
 
 Each section is ready with headings like:
 
@@ -33,18 +33,8 @@ Each section is ready with headings like:
 - Media Gallery
 - License
 
-Please **do not delete the headings** — just replace the placeholder content under each.
-
 ---
 
-## 📚 How to Edit the GitHub Wiki Pages
-
-Follow these official GitHub help guides to learn how to edit your Wiki pages:
-
-🔗 [How to Add or Edit Wiki Pages](https://docs.github.com/en/communities/documenting-your-project-with-wikis/adding-or-editing-wiki-pages)  
-🔗 [How to Format and Save Content in Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/editing-wiki-content)
-
----
 
 ## 📸 Visual Guide (Optional)
 
@@ -58,10 +48,8 @@ You’ll find your project listed there. Click on it, then click **“Edit”** 
 ## 🤝 Need Help?
 
 If you're confused at any step:
-- Ask your mentor or coordinator
-- Or drop a message in our Discord/WhatsApp support group
+- Ask us on our GitHub users.
 
-Let’s build something awesome! 🚀
 
 ## License
 
@@ -82,6 +70,8 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 ## 📬 Contact/Team
 
-> _List team members and contact emails or GitHub profiles._
+> ahanahhirani
+> anushka-shah11
+> Prashast1010
 
 ---
