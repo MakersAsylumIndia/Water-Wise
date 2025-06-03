@@ -2,54 +2,13 @@
 
 Hey there! 👋
 
-This repository is our home for documenting our **Innovation School Project** and starting our **maker portfolio**.  
-We’ll be using the **GitHub Wiki** to update all our project details in a structured format.
+This repository is our home for documenting our **Innovation School Project** and starting our **maker portfolio**. 
 
----
-
-## 🧠 What to Do First
-
- **brief introduction**
-
-🔹 The problem we are solving?  
+## Problem Statement
 Urban homes lack consistent plant care when owners are away. This system automates watering based on soil moisture levels. The owners can also manually water their plants from any distance.
-🔹 What’s our proposed solution?
-Our project called Water Wise enables users to water their plants remotely using a manual or automatic mode. It measures the moisture content in a plant and accordingly waters it when the levels are low.
 
----
-
-## 🛠 Where Everything Else is Documented
-
-We’ve already created a standard set of **Wiki pages** for our project in this repository.
-
-Each section is ready with headings like:
-
-- Project Title
-- Problem Statement
-- Bill of Materials (BOM)
-- Solution Overview
-- SDG Goals Associated
-- Circuit & CAD Files
-- Media Gallery
-- License
-
----
-
-
-## 📸 Visual Guide (Optional)
-
-If you’re unsure where the Wiki tab is:  
-📍 It’s on the top-right area of the repository (next to Code, Issues, Pull Requests).
-
-You’ll find your project listed there. Click on it, then click **“Edit”** to begin updating.
-
----
-
-## 🤝 Need Help?
-
-If you're confused at any step:
-- Ask us on our GitHub users.
-
+## Solution
+Our project, called Water Wise, enables users to water their plants remotely using a manual or automatic mode. It measures the moisture content in a plant and accordingly waters it when the levels are low.
 
 ## License
 
@@ -70,6 +29,7 @@ MIT open source [license](http://opensource.org/licenses/MIT).
 
 ## 📬 Contact/Team
 
+> Maker's Asylum
 > ahanahhirani
 > anushka-shah11
 > Prashast1010
